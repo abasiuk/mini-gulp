@@ -1,0 +1,2 @@
+# mini-gulp
+minificator
